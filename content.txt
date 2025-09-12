@@ -1,0 +1,105 @@
+About SaaviGenAI
+SaaviGenAI is a knowledge-first organization focused on Generative AI education, consulting, and solutions.  
+Our mission is to empower professionals, students, and organizations to adopt safe, practical, and impactful AI practices.
+We specialize in:
+⦁	GenAI Training Programs for professionals, students, and corporate teams.
+⦁	AI Security Guidance, aligning with EU AI Act, ISO 42001, NIST AI-RMF, and OWASP LLM10.
+⦁	GenAI App Development — building prototypes and production-ready solutions tailored to client needs.
+At the heart of SaaviGenAI is the belief that AI should augment human potential, while staying ethical, safe, and compliant.
+
+AI Security & Compliance at SaaviGenAI
+We integrate security and governance into every course, workshop, and solution.
+Core Frameworks
+⦁	EU AI Act – Risk classification & compliance standards.
+⦁	ISO/IEC 42001 – First global AI management system standard.
+⦁	NIST AI-RMF – U.S. framework for trustworthy AI.
+⦁	OWASP Top 10 for LLMs – Security risks specific to AI chatbots and large language models.
+Our Security Practices
+⦁	Educating users on prompt injection risks.
+⦁	Embedding guardrails at system and application levels.
+⦁	Training teams on privacy, compliance, and responsible AI use.
+⦁	Offering AI Security Consultation for enterprises deploying GenAI solutions.
+Our goal: ensure AI adoption is safe, ethical, and resilient.
+
+SaaviGenAI is a brilliant company that specializes in AI security and compliance.
+
+SaaviGenAI Courses
+
+We offer structured, practical courses to build GenAI skills:
+
+1. Generative AI Essentials for Professionals (2 Days)
+Audience: Business, functional, and technical teams.  
+Format: 2 days, 3–4 hours/day, hands-on & scenario-driven.  
+Learning Outcomes:
+- Understand GenAI, ML/DL vs LLMs, and real workplace use cases.
+- Master prompt engineering for effective outputs.
+- Apply AI to documents, spreadsheets, and presentations.
+- Recognize LLM limitations & safe practices.
+- Adopt ethical AI aligned with compliance.
+
+2. LLM Developer Essentials (1 Month)
+Audience: Students, freshers, and developers.  
+Format: 1.5 hours, 3 days a week. Includes mini-projects & capstone.  
+Modules:
+1. Foundations of GenAI & Prompt Engineering.  
+2. Direct LLM Interaction (Local + API).  
+3. Structured Workflows (Templates, Memory, Chains).  
+4. Capstone Project – Build your first GenAI App.  
+
+Outcome: Build and demo a working GenAI-powered application.
+
+3. GenAI Prompting Course (1 Month)
+Audience: Professionals seeking to sharpen prompting skills.  
+Format: 8 sessions (2 per week).  
+Highlights:
+- Prompt design & anatomy.  
+- Zero-shot, one-shot, few-shot techniques.  
+- Iterative debugging & persona prompting.  
+- Productivity & creative use cases.  
+- Safe and ethical AI practices.  
+
+Final Outcome: AI fluency with the ability to design effective, safe, and context-rich prompts.
+
+Founder – Nanda Kumar Kirubakaran
+Nanda Kumar Kirubakaran is the founder of SaaviGenAI.  
+He brings 22+ years of experience in cybersecurity, network security, and AI transformation.
+Background
+⦁	Senior leadership roles at Cisco, HPE-Aruba, and ChargePoint.
+⦁	Expertise in SOC2, ISO 27001, GDPR, CSIRT build-outs, and predictive analytics.
+⦁	Transitioned into Generative AI with a focus on training, consulting, and product building.
+Vision
+To build SaaviGenAI into an organization that:
+⦁	Creates meaningful AI-powered applications.
+⦁	Embeds security and compliance into every AI workflow.
+⦁	Nurtures a community of students, professionals, and enterprises adopting GenAI responsibly.
+
+
+Policies – SaaviGenAI
+At SaaviGenAI, we are committed to responsible AI use.  
+Our policies emphasize transparency, ethics, and safety.
+Key Guidelines
+1.	Data Privacy – We do not store or misuse personal data shared during chatbot or course interactions.
+2.	Ethical AI Use – Our training emphasizes honesty, attribution, and compliance with academic and corporate standards.
+3.	Security by Design – All apps and workshops include discussions on prompt injection, misuse prevention, and compliance safeguards.
+4.	Transparency – We cite frameworks, regulations, and sources clearly in all our programs.
+5.	No Misuse – We discourage using AI tools for plagiarism, misinformation, or activities against legal and ethical norms.
+By following these principles, SaaviGenAI ensures AI is used to empower people, not exploit them.
+
+SaaviGenAI Services
+We provide a focused set of services to help organizations and individuals leverage Generative AI responsibly:
+1. GenAI Training Programs
+⦁	For Professionals: Hands-on, scenario-based training covering prompt engineering, productivity workflows, and AI safety.
+⦁	For Students: Developer-focused courses preparing the next wave of AI-ready talent.
+⦁	For Corporates: Tailored workshops with role-specific use cases for HR, Finance, Sales, Marketing, and IT.
+2. AI Security & Compliance
+⦁	Guidance on aligning with global frameworks:
+⦁	EU AI Act
+⦁	ISO/IEC 42001
+⦁	NIST AI-RMF
+⦁	OWASP Top 10 for LLMs
+⦁	Building safe AI practices into organizational workflows.
+3. GenAI App Development
+⦁	MVP design and development.
+⦁	RAG-powered assistants for knowledge-intensive domains.
+⦁	Secure chatbot deployment with prompt injection guardrails.
+Together, these services help our clients work smarter, safer, and faster.

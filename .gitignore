@@ -1,0 +1,7 @@
+.env
+index.html
+style.css
+script.js
+vectorstore/
+__pycache__/
+
