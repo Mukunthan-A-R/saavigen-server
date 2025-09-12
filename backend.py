@@ -77,6 +77,10 @@ app.add_middleware(
     allow_headers=["*"],  # Allows all headers
 )
 
+@app.get("/")
+def root():
+    return {"message": "Hello, server is running backup"}
+
 # Define the request model
 class ChatRequest(BaseModel):
     question: str
